@@ -1524,7 +1524,7 @@
       },
       {
         "key": "packageNameYouTube",
-        "title": "Package name of YouTube",
+        "title": "tv.danmaku.bili",
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
@@ -1608,7 +1608,7 @@
       },
       {
         "key": "packageNameYouTube",
-        "title": "Package name of YouTube",
+        "title": "tv.danmaku.bili",
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
