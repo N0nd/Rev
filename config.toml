@@ -1,17 +1,8 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
-parallel-jobs = 1
-
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
-# you can use rvmm-config-gen to generate a config
-
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 arch = "arm64-v8a"
-patcher-args = "-e 'Custom branding' -OcustomName=tv.danmaku.bili"
-
+patcher-args = "-e 'GmsCore support' -OgmsCoreVendorGroupId=tv.danmaku.bili -e 'Custom branding' -OcustomName=tv.danmaku.bili"
 
