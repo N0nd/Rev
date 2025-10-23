@@ -1528,10 +1528,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube",
+        "default": "tv.danmaku.bili",
         "values": {
           "Clone": "bill.youtube",
-          "Default": "anddea.youtube"
+          "Default": "tv.danmaku.bili"
         }
       },
       {
@@ -1540,10 +1540,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube.music",
+        "default": "tv.danmaku.bili.music",
         "values": {
           "Clone": "bill.youtube.music",
-          "Default": "anddea.youtube.music"
+          "Default": "tv.danmaku.bili.music"
         }
       },
       {
@@ -1612,10 +1612,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube",
+        "default": "tv.danmaku.bili",
         "values": {
           "Clone": "bill.youtube",
-          "Default": "anddea.youtube"
+          "Default": "tv.danmaku.bili"
         }
       },
       {
@@ -1624,10 +1624,10 @@
         "description": "The name of the package to use in GmsCore support.",
         "required": true,
         "type": "kotlin.String",
-        "default": "anddea.youtube.music",
+        "default": "tv.danmaku.bili.music",
         "values": {
           "Clone": "bill.youtube.music",
-          "Default": "anddea.youtube.music"
+          "Default": "tv.danmaku.bili.music"
         }
       },
       {
