@@ -4,6 +4,4 @@ patches-source = "anddea/revanced-patches"
 integrations-source = "anddea/revanced-integrations"
 rv-brand = "anddea ReVanced"
 version = "20.14.43"
-excluded-patches = "'Custom branding'"
-patcher-args = "-e 'GmsCore support' -OgmsCoreVendorGroupId=tv.danmaku.bili"
-
+-OpackageNameYouTube = "com.tencent.qqlive"
